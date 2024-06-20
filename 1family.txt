@@ -1,0 +1,14 @@
+06	walk
+07	to-walk
+16	walk
+17	to-walk
+26	walk
+27	to-walk
+36	walk
+37	to-walk
+46	walk
+47	to-walk
+56	walk
+57	to-walk
+66	walk
+67	to-walk
